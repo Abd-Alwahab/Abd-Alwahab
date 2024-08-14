@@ -7,7 +7,7 @@
 
 ## About Me
 
-Sr. Front-End Developer with 4.5+ years of experience building and maintaining large-scale applications in dynamic environments. Expertise in Next.js, React.js, APIs, Agile development, SEO, and web performance optimization. Proven ability to transform complex designs into intuitive user experiences. Seeking challenging UI development opportunities where I can continue to grow and contribute to cutting-edge web projects.
+Front-End Developer with 4.5+ years of experience building and maintaining large-scale applications in dynamic environments. Expertise in Next.js, React.js, APIs, Agile development, SEO, and web performance optimization. Proven ability to transform complex designs into intuitive user experiences. Seeking challenging UI development opportunities where I can continue to grow and contribute to cutting-edge web projects.
 
 ## Projects
 
